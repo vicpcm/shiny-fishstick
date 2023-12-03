@@ -1,5 +1,5 @@
-# shiny-fishstick
-Traveler friends' contact list
+# Traveler friends' contact list
+
 When I travel and meet new people I want to save their contact information to hang out/plan other trips or just talk to them, so I found a need for a program that can maintain a list of contacts, including their full names, phone numbers, and email addresses so I can keep track of it without getting my personal contacts mixed up, so we are creating a Traveler Contact List to have this information apart for easy access. Contact details like names, phone numbers, and email addresses are among the input data that this application is anticipated to collect. Through the program's user interface, the user will enter this information. The program will address the issue by giving the user access to a mechanism for saving, editing, and deleting contact information. To manage the contact information, the software will make use of Python's data structures. The user will need to add the information to the program so it can be stored. As I mentioned, I want to solve this problem because I meet people all around the world, and most of the time I lose track of their information because I have too many contacts in my normal list. I wanted to add more details to always remember how we met and to keep in touch in the future. The expected results are that the program works perfectly and smoothly, so the user can look up and add those details at any time. The program indicates what is needed so it is easy to comprehend.  
 
 
