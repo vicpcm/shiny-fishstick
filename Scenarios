@@ -1,0 +1,15 @@
+Scenario 1: The user selects option 3: Display all contacts without adding any contacts to the list first, it will show the next line: No contacts found! 
+The user selects option 1: Add a new contact and proceeds to add the information about her friend, Aria whom she met in Greece last year. The information she should be seeing once she finishes is this: 
+Name: Aria
+Phone: 20451525
+Email: No email
+Country: Greece
+Met: We met in 2022 at a museum
+Here I tried to use an edge case and it worked, the output shows that she needs to add friends to the list before showing her the list since she did not add one yet.
+
+Scenario 2: Victoria selects option 1 and adds a traveler friend to the list: Leon, phone number: 12345678, email address: Leon123@gmail.com, country: USA. They met at a restaurant. The program should generate the information like this once Victoria selects option 3:
+Name: Leon
+Phone: 12345678
+Email: Leon123@gmail.com
+Country: USA
+Met: At a restaurant.
